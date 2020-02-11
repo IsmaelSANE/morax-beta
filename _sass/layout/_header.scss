@@ -35,6 +35,9 @@
 			height: inherit;
 			line-height: inherit;
 			padding: 0 1.5em;
+      img {
+        max-width: 50%;
+      }
 
 			strong {
 				@include vendor('transition', (
@@ -185,6 +188,9 @@
 
 			.logo {
 				padding: 0 1em;
+        img {
+          max-width: 40%;
+        }
 			}
 
 			nav {

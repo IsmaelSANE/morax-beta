@@ -1,6 +1,6 @@
 # site settings
-title: MORAX PHOTOGRAPHY
-subtitle: by Airylight web Development
+title: MORAX PHOTOGRAPHY by
+subtitle: Airylight web Development
 email: moraxphotos@gmail.com
 description: I'm a French Londoner for 5 years now and my studio are located in
   Shoreditch.<br />I take amazing headshots for corporate and creative poepole in
@@ -21,15 +21,15 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/Morax-photography-2260675220845739
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+googleplus_url:
+instagram_url: https://www.instagram.com/moraxphotography/
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/supermorax
 
 # build settings
 markdown: kramdown
