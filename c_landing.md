@@ -1,4 +1,14 @@
-I"J<!-- Main -->
+---
+title: Prices
+layout: landing
+description: 'For Bookings, Private, Creative photohoots or others projects <br>
+please send me your request by filling out the form just bellow.'
+image: assets/images/prices-3.png
+nav-menu: true
+show_tile: true
+---
+
+<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -9,7 +19,7 @@
 		</header>
 		<p>
       I am a creative photographer and I love playing with colours and lights in
-      photography.<br /> I will allways create a unique atmosphere and catch your "je ne
+      photography.<br> I will allways create a unique atmosphere and catch your "je ne
       sais quoi" to bring out your best self onto my camera.
     </p>
 	</div>
@@ -121,11 +131,11 @@
     <!-- <a href="generic.html" class="image">
       <img src="assets/images/basic-2.png" alt="" data-position="center center" />
     </a> -->
-    <iframe width="570" height="510" src="https://www.youtube.com/embed/bebP8cNyhCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    <iframe class="image" width="570" height="510" src="https://www.youtube.com/embed/bebP8cNyhCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <div class="content">
       <div class="inner">
         <header class="major">
-          <h3>Video &amp; Filming</h3>
+          <h3>Video & Filming</h3>
         </header>
         <p>
           Make your own business stand out from the rest.
@@ -162,4 +172,3 @@
 </section>
 
 </div>
-:ET

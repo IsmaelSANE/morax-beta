@@ -2,6 +2,7 @@
 layout: page
 title: Events
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->

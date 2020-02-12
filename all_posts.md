@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: All posts
+title: Videos
 landing-title: 'All posts'
 nav-menu: true
 description: null
