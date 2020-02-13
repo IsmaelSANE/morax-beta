@@ -1,0 +1,169 @@
+I"E<html class="no-js" lang="en">
+<head>
+  <meta content="charset=utf-8" />
+    <link rel="stylesheet" href="/assets/css/selena.css" />
+</head>
+    <body class="gallery">
+
+  <section id="content" role="main">
+    <div class="wrapper">
+      <!-- Gallery __-->
+      <div class="gallery masonry-gallery">
+
+        <figure class="gallery-item"><figure class="effect-selena">
+          <header class="gallery-icon">
+<a href="http://localhost:4000//gallery/gallery01/">
+<img src="http://localhost:4000//gallery/albums/alb01.png" /></a>
+          </header>
+          <figcaption class="gallery-caption">
+            <div class="entry-summary">
+              <h3>Corporate</h3>
+              <p>July 2015</p>
+            </div>
+          </figcaption>
+                       </figure>
+        </figure>
+
+        <figure class="gallery-item"><figure class="effect-selena">
+          <header class="gallery-icon">
+<a href="http://localhost:4000//gallery/gallery02/">
+<img src="http://localhost:4000//gallery/albums/alb02.png" /></a>
+          </header>
+          <figcaption class="gallery-caption">
+            <div class="entry-summary">
+              <h3>Portrait Life-style</h3>
+              <p>June 2015</p>
+            </div>
+          </figcaption>
+                       </figure>
+        </figure>
+
+        <figure class="gallery-item"><figure class="effect-selena">
+          <header class="gallery-icon">
+<a href="http://localhost:4000//gallery/gallery03/">
+<img src="http://localhost:4000//gallery/albums/alb03.png" /></a>
+          </header>
+          <figcaption class="gallery-caption">
+            <div class="entry-summary">
+              <h3>Women fashion</h3>
+              <p>May 2015</p>
+            </div>
+          </figcaption>
+                       </figure>
+        </figure>
+
+        <figure class="gallery-item"><figure class="effect-selena">
+          <header class="gallery-icon">
+<a href="http://localhost:4000//gallery/gallery04/">
+<img src="http://localhost:4000//gallery/albums/alb04.png" /></a>
+          </header>
+          <figcaption class="gallery-caption">
+            <div class="entry-summary">
+              <h3>Weddings</h3>
+              <p>April 2015</p>
+            </div>
+          </figcaption>
+                       </figure>
+        </figure>
+
+        <figure class="gallery-item"><figure class="effect-selena">
+          <header class="gallery-icon">
+<a href="http://localhost:4000//gallery/gallery05/">
+<img src="http://localhost:4000//gallery/albums/alb05.jpg" /></a>
+          </header>
+          <figcaption class="gallery-caption">
+            <div class="entry-summary">
+              <h3>Men fashion</h3>
+              <p>March 2015</p>
+            </div>
+          </figcaption>
+                       </figure>
+        </figure>
+
+        <figure class="gallery-item"><figure class="effect-selena">
+          <header class="gallery-icon">
+<a href="http://localhost:4000//gallery/gallery06/">
+<img src="http://localhost:4000//gallery/albums/alb06.png" /></a>
+          </header>
+          <figcaption class="gallery-caption">
+            <div class="entry-summary">
+              <h3>Studio creatif</h3>
+              <p>February 2015</p>
+            </div>
+          </figcaption>
+                       </figure>
+        </figure>
+
+        <figure class="gallery-item"><figure class="effect-selena">
+          <header class="gallery-icon">
+<a href="http://localhost:4000//gallery/gallery07/">
+<img src="http://localhost:4000//gallery/albums/alb07.png" /></a>
+          </header>
+          <figcaption class="gallery-caption">
+            <div class="entry-summary">
+              <h3>Family</h3>
+              <p>January 2015</p>
+            </div>
+          </figcaption>
+                       </figure>
+        </figure>
+
+        <figure class="gallery-item"><figure class="effect-selena">
+          <header class="gallery-icon">
+<a href="http://localhost:4000//gallery/gallery08/">
+<img src="http://localhost:4000//gallery/albums/alb08.png" /></a>
+          </header>
+          <figcaption class="gallery-caption">
+            <div class="entry-summary">
+              <h3>Headshoots</h3>
+              <p>December 2014</p>
+            </div>
+          </figcaption>
+                       </figure>
+        </figure>
+
+        <figure class="gallery-item"><figure class="effect-selena">
+          <header class="gallery-icon">
+<a href="http://localhost:4000//gallery/gallery09/">
+<img src="http://localhost:4000//gallery/albums/alb09.png" /></a>
+          </header>
+          <figcaption class="gallery-caption">
+            <div class="entry-summary">
+              <h3>Food</h3>
+              <p>November 2014</p>
+            </div>
+          </figcaption>
+                       </figure>
+        </figure>
+
+      </div>
+    </div><!-- END .wrapper -->
+  </section>
+
+<br />
+
+
+<!-- jQuery -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<!-- include image popups -->
+<script src="/assets/js/jquery.magnific-popup.js"></script>
+
+<script src="/assets/js/retina.min.js"></script>
+<!-- include Masonry -->
+<script src="/assets/js/isotope.pkgd.min.js"></script>
+<!-- include mousewheel plugins -->
+<script src="/assets/js/jquery.mousewheel.min.js"></script>
+<!-- include carousel plugins -->
+<script src="/assets/js/jquery.tinycarousel.min.js"></script>
+<!-- include svg line drawing plugin -->
+<script src="/assets/js/jquery.lazylinepainter.min.js"></script>
+<!-- include custom script -->
+<script src="/assets/js/scripts.js"></script>
+<!-- Modernizr -->
+<script src="/assets/js/modernizr.js"></script>
+
+</body></html>
+:ET
