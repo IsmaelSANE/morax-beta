@@ -5,7 +5,7 @@ description: HEADSHOT CREATIVE CORPORATE WEDDINGS LONDON SHOOT
 image: assets/images/gallery.png
 nav-menu: true
 active: gallery
-header-img: "img/gallery-bg.jpg"
+header-img: "assets/images/etienne.jpg"
 images:
  - image_path: /gallery/albums/alb01.png
    gallery-folder: /gallery/gallery01/
@@ -49,7 +49,10 @@ show_tile: true
 <html class="no-js" lang="en">
 <head>
   <meta content="charset=utf-8">
-    <link rel="stylesheet" href="{{ "assets/css/selena.css" | prepend: site.baseurl }}">
+    <!-- <link rel="stylesheet" href="{{ "assets/css/selena.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "assets/css/galleries.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "assets/css/magnificPopup.css" | prepend: site.baseurl }}"> -->
+    <!-- <link rel="stylesheet" href="{{ "assets/css/WYSIWYG.css" | prepend: site.baseurl }}"> -->
 </head>
     <body class="gallery">
 

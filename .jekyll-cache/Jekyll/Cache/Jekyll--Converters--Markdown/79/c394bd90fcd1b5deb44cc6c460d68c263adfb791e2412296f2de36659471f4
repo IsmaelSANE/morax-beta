@@ -1,7 +1,10 @@
-I"E<html class="no-js" lang="en">
+I"<html class="no-js" lang="en">
 <head>
   <meta content="charset=utf-8" />
-    <link rel="stylesheet" href="/assets/css/selena.css" />
+    <!-- <link rel="stylesheet" href="/assets/css/selena.css">
+    <link rel="stylesheet" href="/assets/css/galleries.css">
+    <link rel="stylesheet" href="/assets/css/magnificPopup.css"> -->
+    <!-- <link rel="stylesheet" href="/assets/css/WYSIWYG.css"> -->
 </head>
     <body class="gallery">
 
@@ -41,7 +44,7 @@
         <figure class="gallery-item"><figure class="effect-selena">
           <header class="gallery-icon">
 <a href="http://localhost:4000//gallery/gallery03/">
-<img src="http://localhost:4000//gallery/albums/alb03.jpg" /></a>
+<img src="http://localhost:4000//gallery/albums/alb03.png" /></a>
           </header>
           <figcaption class="gallery-caption">
             <div class="entry-summary">
@@ -69,7 +72,7 @@
         <figure class="gallery-item"><figure class="effect-selena">
           <header class="gallery-icon">
 <a href="http://localhost:4000//gallery/gallery05/">
-<img src="http://localhost:4000//gallery/albums/alb05.jpg" /></a>
+<img src="http://localhost:4000//gallery/albums/alb05.png" /></a>
           </header>
           <figcaption class="gallery-caption">
             <div class="entry-summary">
@@ -97,7 +100,7 @@
         <figure class="gallery-item"><figure class="effect-selena">
           <header class="gallery-icon">
 <a href="http://localhost:4000//gallery/gallery07/">
-<img src="http://localhost:4000//gallery/albums/alb07.jpg" /></a>
+<img src="http://localhost:4000//gallery/albums/alb07.png" /></a>
           </header>
           <figcaption class="gallery-caption">
             <div class="entry-summary">
