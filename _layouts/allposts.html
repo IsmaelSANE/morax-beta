@@ -10,27 +10,40 @@
 
   <body>
 
-    {% include header.html %} 
-    
-    
+    {% include header.html %}
+
+    <!-- Page Header -->
+    <header class="intro-header">
+        <div class="container">
+            <div class="row" style="display: flex; justify-content: center;">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="site-heading">
+                        <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                        <hr class="small">
+                        <span class="subheading">{{ page.description }}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <video class="background" autoplay preload="auto" poster="assets/images/banner.jpg">
+          <source src="assets/videos/rooftop.mp4" type="video/mp4">
+        </video>
+    </header>
+
+
     <!-- Main -->
     <div id="main" class="alt">
 
-      <!-- One -->
-      <section id="one">
-	<div class="inner">
-          {% for post in site.posts %}
-	  {% if post.title != 404 %}
-	  <header class="major">
-	    <h1>{{ post.title }}</h1>
-	  </header>
-	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
-	  <p>{{ post.content }}</p>
-	  {% endif %}
-          {% endfor %}
-	</div>
-      </section>
+    <!-- One -->
+    <section id="one">
+      <div class="inner">
+        <header class="major">
+          <!-- <h1>{{ page.title }}</h1> -->
+        </header>
+        {% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+        <p>{{ content }}</p>
+      </div>
+    </section>
 
     </div>
 

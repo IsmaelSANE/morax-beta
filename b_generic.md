@@ -49,10 +49,6 @@ show_tile: true
 <html class="no-js" lang="en">
 <head>
   <meta content="charset=utf-8">
-    <!-- <link rel="stylesheet" href="{{ "assets/css/selena.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "assets/css/galleries.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "assets/css/magnificPopup.css" | prepend: site.baseurl }}"> -->
-    <!-- <link rel="stylesheet" href="{{ "assets/css/WYSIWYG.css" | prepend: site.baseurl }}"> -->
 </head>
     <body class="gallery">
 
