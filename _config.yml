@@ -9,11 +9,11 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+city: LONDON
+state: UK
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: United Kingdom
+phone: +447 956 457 889
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

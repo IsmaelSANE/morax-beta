@@ -1,47 +1,31 @@
 ---
 layout: post
 title: Events
-description: CORPORATE CONFERENCES COMMERCIAL PHOTOGRAPHY
+description: CORPORATE CONFERENCES - COMMERCIAL PHOTOGRAPHY
 nav-menu: true
 active: gallery
 header-img: "assets/images/event-5.png"
 images:
- - image_path: /gallery/albums/alb01.png
-   gallery-folder: /gallery/gallery01/
-   gallery-name: Corporate
+ - image_path: /gallery/albums/alb10.jpg
+   gallery-folder: /gallery/gallery10/
+   gallery-name: Event 1
    gallery-date: July 2015
- - image_path: /gallery/albums/alb02.png
-   gallery-folder: /gallery/gallery02/
-   gallery-name: Portrait Life-style
+ - image_path: /gallery/albums/alb11.jpg
+   gallery-folder: /gallery/gallery11/
+   gallery-name: Event 2
    gallery-date: June 2015
- - image_path: /gallery/albums/alb03.png
-   gallery-folder: /gallery/gallery03/
-   gallery-name: Women fashion
+ - image_path: /gallery/albums/alb12.jpg
+   gallery-folder: /gallery/gallery12/
+   gallery-name: Event 3
    gallery-date: May 2015
- - image_path: /gallery/albums/alb04.png
-   gallery-folder: /gallery/gallery04/
-   gallery-name: Weddings
+ - image_path: /gallery/albums/alb13.jpg
+   gallery-folder: /gallery/gallery13/
+   gallery-name: Event 4
    gallery-date: April 2015
- - image_path: /gallery/albums/alb05.png
-   gallery-folder: /gallery/gallery05/
-   gallery-name: Men fashion
+ - image_path: /gallery/albums/alb14.jpg
+   gallery-folder: /gallery/gallery14/
+   gallery-name: Event 5
    gallery-date: March 2015
- - image_path: /gallery/albums/alb06.png
-   gallery-folder: /gallery/gallery06/
-   gallery-name: Studio creatif
-   gallery-date: February 2015
- - image_path: /gallery/albums/alb07.png
-   gallery-folder: /gallery/gallery07/
-   gallery-name: Family
-   gallery-date: January 2015
- - image_path: /gallery/albums/alb08.png
-   gallery-folder: /gallery/gallery08/
-   gallery-name: Headshoots
-   gallery-date: December 2014
- - image_path: /gallery/albums/alb09.png
-   gallery-folder: /gallery/gallery09/
-   gallery-name: Food
-   gallery-date: November 2014
 show_tile: true
 ---
 
