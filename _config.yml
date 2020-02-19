@@ -5,8 +5,8 @@ email: moraxphotos@gmail.com
 description: I'm a French Londoner for 5 years now and my studio are located in
   Shoreditch.<br />I take amazing headshots for corporate and creative poepole in
   London.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/morax-beta" # the subpath of your site, e.g. /blog
+url: https://ismaelsane.github.io
 author:
 street_address: 1234 Somewhere Road
 city: LONDON
