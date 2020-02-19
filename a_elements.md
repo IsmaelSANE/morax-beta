@@ -66,20 +66,20 @@ show_tile: true
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <!-- include image popups -->
-<script src="{{ site.baseurl }}assets/js/jquery.magnific-popup.js"></script>
+<script src="{{ site.baseurl }}/assets/js/jquery.magnific-popup.js"></script>
 
-<script src="{{ site.baseurl }}assets/js/retina.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/retina.min.js"></script>
 <!-- include Masonry -->
-<script src="{{ site.baseurl }}assets/js/isotope.pkgd.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/isotope.pkgd.min.js"></script>
 <!-- include mousewheel plugins -->
-<script src="{{ site.baseurl }}assets/js/jquery.mousewheel.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/jquery.mousewheel.min.js"></script>
 <!-- include carousel plugins -->
-<script src="{{ site.baseurl}}assets/js/jquery.tinycarousel.min.js"></script>
+<script src="{{ site.baseurl}}/assets/js/jquery.tinycarousel.min.js"></script>
 <!-- include svg line drawing plugin -->
-<script src="{{ site.baseurl }}assets/js/jquery.lazylinepainter.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/jquery.lazylinepainter.min.js"></script>
 <!-- include custom script -->
-<script src="{{ site.baseurl }}assets/js/scripts.js"></script>
+<script src="{{ site.baseurl }}/assets/js/scripts.js"></script>
 <!-- Modernizr -->
-<script src="{{ site.baseurl }}assets/js/modernizr.js"></script>
+<script src="{{ site.baseurl }}/assets/js/modernizr.js"></script>
 
 </body></html>
