@@ -4,7 +4,7 @@ title: Events
 description: CORPORATE CONFERENCES - COMMERCIAL PHOTOGRAPHY
 nav-menu: true
 active: gallery
-header-img: "/assets/images/event-5.png"
+header-img: "assets/images/event-5.png"
 images:
  - image_path: /gallery/albums/alb10.jpg
    gallery-folder: /gallery/gallery10/

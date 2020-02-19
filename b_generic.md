@@ -2,7 +2,7 @@
 layout: post
 title: Gallery
 description: HEADSHOT CREATIVE CORPORATE WEDDINGS LONDON SHOOT
-image: /assets/images/gallery.png
+image: assets/images/gallery.png
 nav-menu: true
 active: gallery
 header-img: "assets/images/etienne.jpg"
