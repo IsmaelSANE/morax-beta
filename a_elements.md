@@ -65,7 +65,6 @@ show_tile: true
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-
 <!-- include image popups -->
 <script src="{{ site.baseurl }}assets/js/jquery.magnific-popup.js"></script>
 
