@@ -86,7 +86,7 @@ show_tile: true
 <!-- include image popups -->
 <script src="{{ site.baseurl }}/assets/js/jquery.magnific-popup.js"></script>
 
-<script src="{{ site.baseurl }}/assets/js/retina.min.js"></script>
+<!-- <script src="{{ site.baseurl }}/assets/js/retina.min.js"></script> -->
 <!-- include Masonry -->
 <script src="{{ site.baseurl }}/assets/js/isotope.pkgd.min.js"></script>
 <!-- include mousewheel plugins -->
