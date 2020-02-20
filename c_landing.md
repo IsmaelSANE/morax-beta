@@ -97,7 +97,7 @@ show_tile: true
   </section>
   <section>
     <a href="#" class="image">
-      <img src="assets/images/event-2.png" alt="" data-position="top center" />
+      <img src="/assets/images/event-2.png" alt="" data-position="top center" />
     </a>
     <div class="content">
       <div class="inner">
