@@ -14,12 +14,22 @@
   <!-- Custom Theme JavaScript -->
   <script src="{{ "assets/js/main.min.js" | absolute_url }}"></script>
   <script type="text/javascript">
-    var images = [ '{{ "/gallery/albums/alb10.jpg" | absolute_url }}',
-                   '{{ "/gallery/albums/alb11.jpg" | absolute_url }}',
-                   '{{ "/gallery/albums/alb12.jpg" | absolute_url }}',
-                   '{{ "/gallery/albums/alb13.jpg" | absolute_url }}',
-                   '{{ "/gallery/albums/alb14.jpg" | absolute_url }}'
-                  ];
+    var eventImages = [ '{{ "/gallery/albums/alb10.jpg" | absolute_url }}',
+                        '{{ "/gallery/albums/alb11.jpg" | absolute_url }}',
+                        '{{ "/gallery/albums/alb12.jpg" | absolute_url }}',
+                        '{{ "/gallery/albums/alb13.jpg" | absolute_url }}',
+                        '{{ "/gallery/albums/alb14.jpg" | absolute_url }}'
+                      ];
+    var galleryImages = [ '{{ "/gallery/albums/alb01.png" | absolute_url }}',
+                          '{{ "/gallery/albums/alb02.png" | absolute_url }}',
+                          '{{ "/gallery/albums/alb03.png" | absolute_url }}',
+                          '{{ "/gallery/albums/alb04.png" | absolute_url }}',
+                          '{{ "/gallery/albums/alb05.png" | absolute_url }}',
+                          '{{ "/gallery/albums/alb06.png" | absolute_url }}',
+                          '{{ "/gallery/albums/alb07.png" | absolute_url }}',
+                          '{{ "/gallery/albums/alb08.png" | absolute_url }}',
+                          '{{ "/gallery/albums/alb09.png" | absolute_url }}',
+                        ];
     function preload() {
         for (var i = 0; i < arguments.length; i++) {
             images[i] = new Image();
@@ -28,6 +38,7 @@
     }
 
     //-- usage --//
-    preload(images)
+    preload(eventImages);
+    preload(galleryImages);
   </script>
 </head>
