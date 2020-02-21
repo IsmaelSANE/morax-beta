@@ -32,6 +32,13 @@ show_tile: true
 <html class="no-js" lang="en">
 <head>
   <meta content="charset=utf-8">
+  <script type="text/javascript">
+    preload(eventOne);
+    preload(eventTwo);
+    preload(eventThree);
+    preload(eventFour);
+    preload(eventFive);
+  </script>
 </head>
     <body class="gallery">
 
