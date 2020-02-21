@@ -13,4 +13,21 @@
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
   <!-- Custom Theme JavaScript -->
   <script src="{{ "assets/js/main.min.js" | absolute_url }}"></script>
+  <script type="text/javascript">
+    var images = [ '{{ "/gallery/albums/alb10.jpg" | absolute_url }}',
+                   '{{ "/gallery/albums/alb11.jpg" | absolute_url }}',
+                   '{{ "/gallery/albums/alb12.jpg" | absolute_url }}',
+                   '{{ "/gallery/albums/alb13.jpg" | absolute_url }}',
+                   '{{ "/gallery/albums/alb14.jpg" | absolute_url }}'
+                  ];
+    function preload() {
+        for (var i = 0; i < arguments.length; i++) {
+            images[i] = new Image();
+            images[i].src = preload.arguments[i];
+        }
+    }
+
+    //-- usage --//
+    preload(images)
+  </script>
 </head>
